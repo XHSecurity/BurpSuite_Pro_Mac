@@ -15,3 +15,6 @@ chmod +x start.sh
 
 ### 运行程序
 ./start.ch
+
+## 运行截图
+![示例图片](example.jpg)``
