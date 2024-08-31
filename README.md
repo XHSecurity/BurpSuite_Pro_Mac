@@ -17,4 +17,4 @@ chmod +x start.sh
 ./start.ch
 
 ## 运行截图
-![示例图片](example.jpg)``
+![示例图片](example.jpg)
